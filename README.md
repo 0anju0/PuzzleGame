@@ -1,7 +1,8 @@
-# [Slide Puzzle](https://youtu.be/sD3Os4H_EOU)
-- Coding Tutorial: https://youtu.be/sD3Os4H_EOU
-- Demo: https://imkennyyip.github.io/slide-puzzle/
+# Slide Puzzle
+- Demo: https://0anju0.github.io/PuzzleGame/
 
 In this tutorial, you will learn how to create a doraemon-themed slide puzzle using mouse click drag events!
 
-![slide-puzzle-preview](https://user-images.githubusercontent.com/78777681/163032087-dd7f31fc-b3bb-43ba-baee-2ebbef28dd35.png)
+
+![Screenshot 2023-10-01 185612](https://github.com/0anju0/PuzzleGame/assets/123807748/38c68845-30ec-4529-887d-7c6045411088)
+![Screenshot 2023-10-01 185717](https://github.com/0anju0/PuzzleGame/assets/123807748/be3fdd07-d870-4ef4-943f-1b26173178a8)
